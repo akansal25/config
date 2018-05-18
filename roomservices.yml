@@ -1,2 +1,6 @@
 server:
   port: 8101
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none  
