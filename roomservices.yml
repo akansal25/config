@@ -1,2 +1,9 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+  h2:
+    console:
+      enabled: true
 server:
   port: 8101
